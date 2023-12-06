@@ -1,3 +1,3 @@
 export interface IAppSC {
-    imageUrl: string;
+    imageurl: string;
 }

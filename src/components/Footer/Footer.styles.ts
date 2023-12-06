@@ -16,6 +16,12 @@ display: flex;
 align-items: center;
 width: 735.19px;
 height: 81px;
+@media screen and (max-width: 480px) {
+    justify-content: center;
+    img{
+        width: 55px !important;
+    }
+}
 span{
         font-size: 14px;
         font-family: 'Lato', sans-serif;
